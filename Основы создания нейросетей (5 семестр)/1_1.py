@@ -8,7 +8,7 @@ arr_2 = arr_1 * 2
 print(arr_2, '\n')
 
 # 3
-arr_1 = np.random.rand(2, 3)
+arr_1 = np.random.rand(3, 3)
 arr_2 = np.random.rand(3, 3)
 print("1:\n", arr_1, '\n')
 print("2:\n", arr_2, '\n')
